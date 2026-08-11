@@ -530,7 +530,7 @@ export default function App() {
             <div className="mt-8 flex flex-wrap gap-8">
               {[
                 ["2006", "Founded"],
-                ["12+", "Years teaching"],
+                ["20+", "Years teaching"],
                 ["100%", "Native speakers"],
               ].map(([n, l]) => (
                 <div key={l}>
